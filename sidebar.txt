@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mle:home|Door43 (mle)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mle|d43-mle repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mle/archive/master.zip|d43-mle.zip]]
+
+**Recent Changes**
+{{changes>ns = mle}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mle|Ethnologue data]]
+
